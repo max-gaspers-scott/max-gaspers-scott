@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Max Gapsers Scott. Thanks for checking out my work!
 
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-gaspers-scott&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-gaspers-scott&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **max-gaspers-scott/max-gaspers-scott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
